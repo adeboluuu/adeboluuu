@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @adeboluuu
-- 👀 I’m interested in Front End Web Development
+- 👋 Hi, I’m Adeboluwarin Thomas
+- 👀 I’m interested in Fullstack Web Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on projects
 
