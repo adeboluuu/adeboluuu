@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adeboluwarin Thomas
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning React Js,Python
 - 💞️ I’m looking to collaborate on projects
 
 <!---
